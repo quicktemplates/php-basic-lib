@@ -15,7 +15,7 @@ A basic template for a php library project.
 1. Clone this repo
 2. Change hardcoded configs to suite your needs
 3. If resulting configs from previous step form a generic template on their own,
-please consider submitting that as a project to https://github.com/quicktemplates
+please consider submitting that as a new repo to https://github.com/repo-init
 4. Fill in your project info in composer.json (placeholders denoted with < and >)
 5. Happy coding!
 6. Oh and don't forget to go and add your repo to [Travis](https://travis-ci.org/account/repositories) and [Scrutinizer](https://scrutinizer-ci.com/g/new) too ;)
